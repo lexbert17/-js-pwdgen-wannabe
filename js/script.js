@@ -5,7 +5,7 @@ const twentyOne = 21
 const yourName = prompt ("Ciao utente! Come ti chiami?");
 console.log(yourName, typeof yourName)
 
-const yourLastName = prompt(`Ciao ${yourName} qual è il tuo cognome?`);
+const yourLastName = prompt(`Ciao ${yourName} qual' è il tuo cognome?`);
 console.log (yourLastName, typeof yourLastName);
 
 const faveCorlor = prompt (`perfetto ${yourName}, qual'è il tuo colore preferito? `);
